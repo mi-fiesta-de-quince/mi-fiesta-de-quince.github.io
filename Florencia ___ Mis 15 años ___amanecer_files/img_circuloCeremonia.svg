@@ -648,9 +648,9 @@
 
 
  <!-- Listado de js con version dinamica segun modificacion de archivo -->
- <script type='text/javascript' src='https://fixdate.io/public/js/jquery-3.5.1.min.js?v=1645580925'></script><script type='text/javascript' src='https://fixdate.io/public/js/bootstrap.bundle.min.js?v=1645580923'></script><script type='text/javascript' src='https://fixdate.io/public/js/jquery.cookie.js?v=1645580925'></script><script type='text/javascript' src='https://fixdate.io/public/js/change-lang.js?v=1645580924'></script><script type='text/javascript' src='https://fixdate.io/public/js/parallax.min.js?v=1645580926'></script><script type='text/javascript' src='https://fixdate.io/public/js/biomp.js?v=1645580923'></script><script type='text/javascript' src='https://fixdate.io/public/js/jquery.stickr.min.js?v=1645580925'></script><script type='text/javascript' src='https://fixdate.io/public/js/lottie_svg.min.js?v=1645580926'></script>
+ <!-- <script type='text/javascript' src='https://fixdate.io/public/js/jquery-3.5.1.min.js?v=1645580925'></script><script type='text/javascript' src='https://fixdate.io/public/js/bootstrap.bundle.min.js?v=1645580923'></script><script type='text/javascript' src='https://fixdate.io/public/js/jquery.cookie.js?v=1645580925'></script><script type='text/javascript' src='https://fixdate.io/public/js/change-lang.js?v=1645580924'></script><script type='text/javascript' src='https://fixdate.io/public/js/parallax.min.js?v=1645580926'></script><script type='text/javascript' src='https://fixdate.io/public/js/biomp.js?v=1645580923'></script><script type='text/javascript' src='https://fixdate.io/public/js/jquery.stickr.min.js?v=1645580925'></script><script type='text/javascript' src='https://fixdate.io/public/js/lottie_svg.min.js?v=1645580926'></script> -->
 
-
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
  <!-- Loader -->
  <script>
    var prealoaderOption = $(window);
