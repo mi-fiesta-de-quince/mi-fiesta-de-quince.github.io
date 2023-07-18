@@ -103,6 +103,10 @@ background:var(--color-2);
   color:#fff;
 }
 
+body{
+  background-color: white;
+}
+
 .title{
   width: 100%;
   display: inline-block;
@@ -315,7 +319,7 @@ section.portada .portada-picture::after {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url('../img/curva_portada_vertical.svg');
+  background-image: url('./curva_portada_vertical.svg');
   background-repeat: no-repeat;
   background-position: top right;
   z-index: 0;
@@ -324,7 +328,7 @@ section.portada .portada-picture::after {
 }
 
 section.portada::after{
-  background-image: url('../img/img_ondas01.svg');
+  background-image: url('./img_ondas01.svg');
   position: absolute;
   content: '';
   background-repeat: no-repeat;
@@ -524,7 +528,7 @@ section.cuenta-regresiva{
 section.cuenta-regresiva .box-aros{
   width: 430px;
   height: 430px;
-  background: url('../img/img_circuloContador01.svg') center center no-repeat;
+  background: url("./img_circuloContador01.svg") center center no-repeat;
   position: relative;
   z-index: 99;
   top:-200px
@@ -717,7 +721,7 @@ section.ceremonia-fiesta .info-col .info-box a.boton{
 }
 
 section.ceremonia-fiesta:after{
-  background-image: url('../img/img_ondas02.svg');
+  background-image: url('./img_ondas02.svg');
   position: absolute;
   content: '';
   background-size: contain !important;
@@ -828,7 +832,7 @@ section.galeria .slick-dots li.slick-active button:before{
 /* Fiesta */
 
 section.fiesta{
-  background: url('../img/img_ondas03.svg') center top no-repeat #fff;
+  background: url('./img_ondas03.svg') center top no-repeat #fff;
   padding-top: 14%;
   position: relative;
   padding-bottom: 17%;
@@ -862,7 +866,7 @@ section.fiesta .anim-tips{
 }
 
 section.fiesta:after{
-  background-image: url('../img/img_ondas04.svg');
+  background-image: url('./img_ondas04.svg');
   position: absolute;
   content: '';
   background-size: contain !important;
@@ -1027,7 +1031,7 @@ section.instagram .container{
 
 
 section.instagram:before{
-  background-image: url('../img/img_ondas05.svg');
+  background-image: url('./img_ondas05.svg');
   position: absolute;
   content: '';
   background-repeat: no-repeat;
@@ -1065,7 +1069,7 @@ section.instagram .anim-instagram{
 }
 
 section.instagram:after{
-  background-image: url('../img/img_ondas06.svg');
+  background-image: url('./img_ondas06.svg');
   position: absolute;
   content: '';
   /* background-size: contain !important; */
