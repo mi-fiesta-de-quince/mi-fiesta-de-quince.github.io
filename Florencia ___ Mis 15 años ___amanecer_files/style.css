@@ -1013,7 +1013,7 @@ section.regalos .anim-regalos{
 section.instagram{
   padding-top: 16%;
   padding-bottom: 16%;
-  /* background: url('../img/portada.jpg') center center; */
+  background: url('../img/portada.jpg') center center; 
   position: relative;
 }
 
